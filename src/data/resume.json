@@ -1,0 +1,267 @@
+{
+	"name": "Joe Coleman",
+	"email": "phantom42@gmail.com",
+	"address": {
+		"street": "1432 Willow Branch Dr",
+		"city": "Orlando",
+		"state": "FL",
+		"zip": "32828"
+	},
+	"phone": "407.489.9593",
+	"education": [
+		{
+			"key": "0",
+			"school": "Full Sail",
+			"date_start": "04/1999",
+			"date_end": "02/2000",
+			"degree": "Associates",
+			"curriculum": "Digital Media"
+		},
+		{
+			"key": "1",
+			"school": "Full Sail",
+			"date_start": "02/1998",
+			"date_end": "03/1998",
+			"degree": "Associates",
+			"curriculum": "Audio Engineering"
+		},
+		{
+			"key": "2",
+			"school": "Florida Institute of Technology",
+			"date_start": "08/1996",
+			"date_end": "12/1997",
+			"degree": "N/A",
+			"curriculum": "Computer Engineering"
+		}
+	],
+	"job_history": [
+		{
+			"key": "0",
+			"company": "Amerinational Management Services",
+			"title": "Senior Developer",
+			"start_date": "06/2015",
+			"end_date": "Present",
+			"tasks": [
+				"Build and maintain CMS system which allows businesses to create renewable contracts",
+				"Source Control Manager - responsible for managing multiple repositories. Handle all pull requests. Coordinate and perform code reviews and merges"
+			],
+			"featured_projects": [
+				"Convert marketing material catalog from Flex to ReactJS",
+				"Build an embeddable dynamic webform that allows users to pick from and schedule available upcoming appointments",
+				"Create new monthly subscription system allowing customers to purchase and consume credits for usage of products."
+			],
+			"technologies": [
+				"Adobe ColdFusion 8",
+				"SQL Server 2005",
+				"IIS 7",
+				"Git",
+				"Bitbucket",
+				"Jira",
+				"ReactJS",
+				"jQuery",
+				"Bootstrap",
+				"JavaScript",
+				"SourceTree",
+				"Gulp",
+				"Grunt",
+				"Webpack"
+			]
+		},
+		{
+			"key": "1",
+			"company": "HomeActions LLC",
+			"title": "Junior Developer",
+			"start_date": "12/2014",
+			"end_date": "6/2015",
+			"tasks": [
+				"Maintain and small bug fixes to an email newsletter platform. Minor bugs and feature improvements."
+			],
+			"featured_projects": "",
+			"technologies": [
+				"Ruby",
+				"Ruby on Rails",
+				"jQuery",
+				"Bootstrap",
+				"HAML",
+				"Git",
+				"CoffeeScript"
+			]
+		},
+		{
+			"key": "2",
+			"company": "STSI Inc",
+			"title": "Senior Developer",
+			"start_date": "2/2012",
+			"end_date": "12/2014",
+			"tasks": [
+				"Build and maintain Personnel management system used by the EPA to onboard new Federal and Non-Federal Employees",
+				"Perform technical reviews of change requests and provide detailed plans for technical solutions",
+				"Package and test all deployment packages to be delivered to Federal IT team",
+				"Generate SQL queries to provide ad-hoc reports",
+				"Perform regular code reviews",
+				"Maintain Development Server to mirror production environment"
+			],
+			"featured_projects": [
+				"Reporting tuning: rebuilt SQL queries and ColdFusion report generator to dramatically reduce time to generate large reports (reduction from 30-40 minutes to 1 minute)",
+				"Activity Logging: responsible for fix and massive cleanup where incorrect or no users were being attributed to logged user actions",
+				"Risk Designation Streamlining: responsible for major overhaul to the process of user creation and risk designation in order to reduce the number of abandoned personnel data",
+				"Reciprocity/SF-52 Streamlining: integral in effor to overhaul the application to intelligently allow/disallow users to only select certain actions based on a large number of complex subject statuses and situations"
+			],
+			"technologies": [
+				"Adobe ColdFusion 9 & 10",
+				"Fusebox Framework",
+				"Oracle 11g",
+				"Toad",
+				"Microsoft Office Suite",
+				"Sharepoint",
+				"Visual SourceSafe"
+			]
+		},
+		{
+			"key": "3",
+			"company": "BizActions LLC",
+			"title": "Senior Developer",
+			"start_date": "12/2007",
+			"end_date": "1/2012",
+			"tasks": [
+				"Build and maintain an email newsletter platform",
+				"Act as interdepartment liason between technology, content, and customer service departments",
+				"Perform technical analysis of projects and customer requests"
+			],
+			"featured_projects": [
+				"Drip Campaigns: created system to send scheduled and triggered email campaigns to customers",
+				"Reporting Dashboard: new standalone dashboard application to allow monitoring of email newsletter campaign statistics",
+				"Checkspec: internal utility to validate large lists of email addressses"
+			],
+			"technologies": [
+				"Adobe ColdFusion 9 & 10",
+				"Adobe Flex/AIR",
+				"Postgres",
+				"Navicat",
+				"jQuery",
+				"JavaScript",
+				"CSS",
+				"Savvy CMS"
+			]
+		},
+		{
+			"key": "4",
+			"company": "Strike Interactive",
+			"title": "Junior Programmer",
+			"start_date": "9/2007",
+			"end_date": "12/2007",
+			"tasks": [
+				"Correct bugs, creation and implementation of new features for existing client sites",
+				"Assist in development of new sites for clients"
+			],
+			"featured_projects": [
+				""
+			],
+			"technologies": [
+				"Adobe ColdFusion 9",
+				"Fusebox 3 and Coldbox Frameworks",
+				"HTML",
+				"CSS",
+				"Javascript"
+			]
+		},
+		{
+			"key": "5",
+			"company": "Rotech Systems Group",
+			"title": "IS Programmer",
+			"start_date": "12/2006",
+			"end_date": "9/2007",
+			"tasks": [
+				"Provide support and maintain existing intranet pages to support a medical supply and RX prescription company",
+				"Develop tools and scheduled tasks to sanitize bad data"
+			],
+			"featured_projects": [
+				"Customer History Snapshot: Created popup history viewer to allow Service Reps to see pertinent information without having to leave their current screen"
+			],
+			"technologies": [
+				"Adobe Coldfusion 8",
+				"PERL",
+				"HTML",
+				"CSS",
+				"Java",
+				"JavaScript"
+			]
+		},
+		{
+			"key": "6",
+			"company": "TalentRock",
+			"title": "Programmer",
+			"start_date": "11/2005",
+			"end_date": "12/2006",
+			"tasks": [
+				"Support existing intranet web applications and create new support and reporting applications",
+				"Create and support dynamic call appointment scheduling form",
+				"Assist in creation of CMS for personalized talent promotion sites"
+			],
+			"featured_projects": [
+				"Auto Hotel Rooming Assignment Matcher: Created an application to match hotel roommate assignments based on gender age and party size. Process was previously done by hand."
+			],
+			"technologies": [
+				"Adobe ColdFusion 7",
+				"SQL Server 2005",
+				"HTML",
+				"CSS",
+				"JavaScript"
+			]
+		},
+		{
+			"key": "7",
+			"company": "CDTC Inc",
+			"title": "Lead Programmer",
+			"start_date": "4/2002",
+			"end_date": "5/2005",
+			"tasks": [
+				"Perform technical analysis and feasibility studies of proposed projects",
+				"Coordinate asset collection and development",
+				"Create project-maps and flowcharts",
+				"Develop pre-production documents",
+				"Manage small team of developers and artists",
+				"Build and maintain website and program database driven intranet project tracking and customer relations management tool in ColdFusion and JavaScript",
+				"Build cross-platform catalog/shopping carts and marketing/ticket sales tools and demo projects on CD-ROM"
+			],
+			"featured_projects": [
+				"Walt Disney World Group Ticketing CD-ROM: Built a CD-ROM sent to schools and youth organizations to promote Disney attractions and amenities. Users could select interests and build an order for group order for their entire park visit. Order could be transmitted electronically or encoded into a scanable barcode used by group ticketing"
+			],
+			"technologies": [
+				"Adobe/Macromedia Director",
+				"Adobe/Macromedia ColdFusion",
+				"Adobe Photoshop",
+				"HTML",
+				"CSS",
+				"JavaScript"
+			]
+		},
+		{
+			"key": "8",
+			"company": "Full Sail",
+			"title": "Lab Instructor/Associate Course Director - Digital Media Assembly",
+			"start_date": "3/2000",
+			"end_date": "4/2002",
+			"tasks": [
+				"As course director: teach 3 four hour lectures per week on using Macromedia Director 8.5 to build CD-ROM/multi-media projects",
+				"Write course manual",
+				"Write exams/lab tutorials/lesson plans",
+				"Develop course material",
+				"Manage lab staff",
+				"As Lab Instructor: Manage six 4 hour labs per with two classes of thirty students and student projects per month and lead pre-production development of all projects"
+			],
+			"featured_projects": [
+				""
+			],
+			"technologies": [
+				"Adobe/Macromedia Director",
+				"Microsoft Office Suite",
+				"HTML",
+				"CSS",
+				"JavaScript",
+				"Adobe Premiere",
+				"Adobe AfterEffects"
+			]
+		}
+	]
+}

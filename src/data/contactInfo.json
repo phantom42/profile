@@ -1,0 +1,41 @@
+{
+	"name": "Joe Coleman",
+	"email": "phantom42@gmail.com",
+	"phone": "407-489-9593",
+	"job": "Web Developer",
+	"city": "Orlando",
+	"state": "FL",
+	"website": "http://www.phantom42.com",
+	"profiles": [
+		{
+			"key": "0",
+			"site": "GitHub",
+			"url": "http://github.com/phantom42",
+			"icon": "fa-github"
+		},
+		{
+			"key": "1",
+			"site": "LinkdIn",
+			"url": "http://www.linkedin.com/in/phantom42",
+			"icon": "fa-linkedin"
+		},
+		{
+			"key": "2",
+			"site": "Yelp",
+			"url": "http://phantom42.yelp.com",
+			"icon": "fa-yelp"
+		},
+		{
+			"key": "3",
+			"site": "Twitter",
+			"url": "https://twitter.com/phntm42",
+			"icon": "fa-twitter"
+		},
+		{
+			"key": "4",
+			"site": "Instagram",
+			"url": "http://instagram.com/phantom42",
+			"icon": "fa-instagram"
+		}
+	]
+}

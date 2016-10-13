@@ -1,0 +1,30 @@
+.App {
+	text-align: center;
+}
+
+.App-header {
+	background-color: #222;
+	//height: 150px;
+	padding: 20px;
+	color: white;
+}
+
+.App-intro {
+	font-size: large;
+}
+
+.profilePhoto{
+	height: 300px;	
+	width: 300px;
+}
+.jobHistory, .education {
+	text-align: left;
+	margin: 20px;
+}
+.profileButton {
+	margin: .25em;
+}
+
+h2.sectionTitle {
+	border-bottom: thin solid gray;
+}
