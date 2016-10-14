@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class Profiles extends Component {
 	handleClick(e){
-		let url = e.target.parentElement.getAttribute('data-url');
+		let url = e.currentTarget.getAttribute('data-url');
 		window.open(url);
 	}
 	renderProfiles(){
