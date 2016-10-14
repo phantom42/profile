@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class JobHistory extends Component {
 	renderList(list){
-		if (!list.length) return false;
+		if (!list.length) return false; 
 		return list.map(function(item, i){
 			return (
 				<li key={i}>{item}</li>
@@ -30,12 +30,17 @@ class JobHistory extends Component {
 										{this.renderList(job.tasks)}
 									</ul>
 								</dd>
-								<dt>Featured Projects</dt>
-								<dd>
-									<ul className='list-unstyled'>
-										{this.renderList(job.featured_projects)}
-									</ul>
-								</dd>
+								{ job.featured_projects.length > 0 && job.featured_projects[0].trim().length > 0? 
+									<span>
+									<dt>Featured Projects </dt>
+									<dd>
+										<ul className='list-unstyled'>
+											{this.renderList(job.featured_projects)} 
+										</ul>
+									</dd>
+									</span>
+									: null
+								} 
 								<dt>Technologies</dt>
 								<dd>
 									<ul>
@@ -54,8 +59,7 @@ class JobHistory extends Component {
 		return (
 			<div className="jobHistory">
 					<h2 className="sectionTitle">Work History</h2>
-
-				{this.renderJobs()}
+					{this.renderJobs()}
 			</div>
 		);
 	}
