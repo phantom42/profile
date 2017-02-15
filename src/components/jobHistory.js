@@ -16,8 +16,8 @@ class JobHistory extends Component {
 					<div className="panel panel-default">
 						<div className="panel-heading">
 							<div className="panel-title">
-								<span>{job.company}: {job.start_date} - {job.end_date}</span>
-								<span className="pull-right hidden-xs">{job.title}</span>
+								<span className="jobCompany">{job.company}: {job.start_date} - {job.end_date}</span>
+								<span className="pull-right hidden-xs jobTitle">{job.title}</span>
 							</div>
 						</div>
 						<div className="panel-body">

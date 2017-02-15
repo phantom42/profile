@@ -21,10 +21,19 @@
 	text-align: left;
 	margin: 20px;
 }
+.jobCompany {
+	font-weight: bold;
+}
+.jobTitle {
+	font-weight: bold;
+}
 .profileButton {
 	margin: .25em;
 }
 
 h2.sectionTitle {
 	border-bottom: thin solid gray;
+}
+.jobHistory .panel-heading {
+	background-color: #ccc;
 }

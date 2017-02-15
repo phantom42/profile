@@ -2,12 +2,12 @@
 	"name": "Joe Coleman",
 	"email": "phantom42@gmail.com",
 	"address": {
-		"street": "1432 Willow Branch Dr",
+		"street": "",
 		"city": "Orlando",
 		"state": "FL",
-		"zip": "32828"
+		"zip": ""
 	},
-	"phone": "407.489.9593",
+	"phone": "",
 	"education": [
 		{
 			"key": "0",
@@ -38,20 +38,23 @@
 		{
 			"key": "0",
 			"company": "Amerinational Management Services",
-			"title": "Senior Developer",
+			"title": "Lead Developer",
 			"start_date": "06/2015",
 			"end_date": "Present",
 			"tasks": [
 				"Build and maintain CMS system which allows businesses to create renewable contracts",
-				"Source Control Manager - responsible for managing multiple repositories. Handle all pull requests. Coordinate and perform code reviews and merges"
+				"Source Control Manager - responsible for managing multiple repositories. Handle all pull requests. Coordinate and perform code reviews and merges.  Deploy code across server environments.",
+				"Assist in managing bug tracking and assignments to other developers."
 			],
 			"featured_projects": [
-				"Convert marketing material catalog from Flex to ReactJS",
-				"Build an embeddable dynamic webform that allows users to pick from and schedule available upcoming appointments",
-				"Create new monthly subscription system allowing customers to purchase and consume credits for usage of products."
+				"MA BizAcademy: Convert marketing material catalog from Flex to ReactJS",
+				"Webform Appointments: Build an embeddable dynamic webform that allows users to pick from and schedule available upcoming appointments",
+				"SMS Credit System: Built a new subscription based system for customers to buy credits used for communicating with their own customers via SMS. In addition to monthly billing, the system also auto-repurchases more credits when a customer-configurable threshold is reached. The billing system integrates with multiple payment processors as well as Twilio. Project was completed using a combination of ReactJS and ColdFusion.",
+				"AMS Advantage: Integral in building a new payment processing system for aggregating payments and charging charging through multiple payment processors. Built one-click account creation tool, and refund management tool integrated with ProPay Systems, and payment processing through Sage Payments."
 			],
 			"technologies": [
-				"Adobe ColdFusion 8",
+				"Adobe ColdFusion 8/11",
+				"Lucee 4.5/5",
 				"SQL Server 2005",
 				"IIS 7",
 				"Git",
