@@ -1,6 +1,6 @@
 {
 	"name": "Joe Coleman",
-	"email": "phantom42@gmail.com",
+	"email": "joe@colemancodes.com",
 	"address": {
 		"street": "",
 		"city": "Orlando",
@@ -37,10 +37,26 @@
 	"job_history": [
 		{
 			"key": "0",
+			"company": "Ansira",
+			"title": "Software Developer",
+			"start_date": "06/2017",
+			"end_date": "Present",
+			"tasks":["Update and maintain codebases for multiple sites used by car dealerships to track marketing and advertising spending"],
+			"featured_projects": [
+				"Mazda Co-op: clone and convert codebase from similar existing site. Re-skin CSS of site. Build and maintain new reports. Address and correct identified bugs.",
+				"Jaguar/Land Rover Media Partners: enable existing site to accept passed in form objects from a parent site.",
+				"Alfa Romeo Co-op: Re-skin CSS of site."
+			],
+			"technologies": [
+				"Adobe Coldfusion 11",
+				"MS SQL 2016"]
+		},
+		{
+			"key": "1",
 			"company": "Amerinational Management Services",
 			"title": "Lead Developer",
 			"start_date": "06/2015",
-			"end_date": "Present",
+			"end_date": "06/2017",
 			"tasks": [
 				"Build and maintain CMS system which allows businesses to create renewable contracts",
 				"Source Control Manager - responsible for managing multiple repositories. Handle all pull requests. Coordinate and perform code reviews and merges.  Deploy code across server environments.",
@@ -71,7 +87,7 @@
 			]
 		},
 		{
-			"key": "1",
+			"key": "2",
 			"company": "HomeActions LLC",
 			"title": "Junior Developer",
 			"start_date": "12/2014",
@@ -91,7 +107,7 @@
 			]
 		},
 		{
-			"key": "2",
+			"key": "3",
 			"company": "STSI Inc",
 			"title": "Senior Developer",
 			"start_date": "2/2012",
@@ -121,7 +137,7 @@
 			]
 		},
 		{
-			"key": "3",
+			"key": "4",
 			"company": "BizActions LLC",
 			"title": "Senior Developer",
 			"start_date": "12/2007",
@@ -148,7 +164,7 @@
 			]
 		},
 		{
-			"key": "4",
+			"key": "5",
 			"company": "Strike Interactive",
 			"title": "Junior Programmer",
 			"start_date": "9/2007",
@@ -169,7 +185,7 @@
 			]
 		},
 		{
-			"key": "5",
+			"key": "6",
 			"company": "Rotech Systems Group",
 			"title": "IS Programmer",
 			"start_date": "12/2006",
@@ -191,7 +207,7 @@
 			]
 		},
 		{
-			"key": "6",
+			"key": "7",
 			"company": "TalentRock",
 			"title": "Programmer",
 			"start_date": "11/2005",
@@ -213,7 +229,7 @@
 			]
 		},
 		{
-			"key": "7",
+			"key": "8",
 			"company": "CDTC Inc",
 			"title": "Lead Programmer",
 			"start_date": "4/2002",
@@ -240,7 +256,7 @@
 			]
 		},
 		{
-			"key": "8",
+			"key": "9",
 			"company": "Full Sail",
 			"title": "Lab Instructor/Associate Course Director - Digital Media Assembly",
 			"start_date": "3/2000",
