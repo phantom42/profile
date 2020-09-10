@@ -45,10 +45,13 @@
 			"featured_projects": [
 				"Mazda Co-op: clone and convert codebase from similar existing site. Re-skin CSS of site. Build and maintain new reports. Address and correct identified bugs.",
 				"Jaguar/Land Rover Media Partners: enable existing site to accept passed in form objects from a parent site.",
-				"Alfa Romeo Co-op: Re-skin CSS of site."
+				"Alfa Romeo Co-op: Re-skin CSS of site.",
+				"Nissan: enabled SSO between parent site and multiple reporting sites",
+				"Subaru Loves Pets: built and launched a new site to facilitate Pet Shelters signing up for Autoshows to hold adoption drives. Site handles invitation, contracts, and impact collection.",
+				"Serta Simmons Bedding Marketspy: build and launched a new advertising analytics site with multiple custom reports"
 			],
 			"technologies": [
-				"Adobe Coldfusion 11",
+				"Adobe Coldfusion 11, 16",
 				"MS SQL 2016"]
 		},
 		{
