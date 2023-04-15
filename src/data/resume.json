@@ -48,11 +48,17 @@
 				"Alfa Romeo Co-op: Re-skin CSS of site.",
 				"Nissan: enabled SSO between parent site and multiple reporting sites",
 				"Subaru Loves Pets: built and launched a new site to facilitate Pet Shelters signing up for Autoshows to hold adoption drives. Site handles invitation, contracts, and impact collection.",
-				"Serta Simmons Bedding Marketspy: build and launched a new advertising analytics site with multiple custom reports"
+				"Serta Simmons Bedding Marketspy: build and launched a new advertising analytics site with multiple custom reports",
+				"Multiple Clients: create universal security encryption features to encrypt and decrypt data",
+				"Multiple Clients: build/implement easily reusable/embedable widgets to add/track invoices to claims"
 			],
 			"technologies": [
-				"Adobe Coldfusion 11, 16",
-				"MS SQL 2016"]
+				"Adobe Coldfusion 11, 16, 2018, 2021",
+				"MS SQL 2016",
+				"Jira",
+				"Bitbucket",
+				"Confluence"
+			]
 		},
 		{
 			"key": "1",
